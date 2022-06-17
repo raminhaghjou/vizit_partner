@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416464650743",
+    "project_id": "partnerapp-99f69",
+    "storage_bucket": "partnerapp-99f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416464650743:android:d31cbd71371ddc5a946ef2",
+        "android_client_info": {
+          "package_name": "com.vizitland.vizit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416464650743-eqv3o7fgb4l04s0r2iv1j4dqcbc5runu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYNvagJev5TqBdOwZn2PwaARePB_ZodVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416464650743-eqv3o7fgb4l04s0r2iv1j4dqcbc5runu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

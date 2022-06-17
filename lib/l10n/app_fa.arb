@@ -1,0 +1,1068 @@
+{
+    "lblSignIn": "ورود",
+    "@lblSignIn":{
+      "description": "ثبت نام کنید"
+    },
+    "lblEmail":"ایمیل",
+    "@lblEmail":{
+      "description":"ایمیل"
+    },
+    "lblPassword":"رمز عبور",
+    "@lblPassword":{
+      "description":"رمز عبور"
+    },
+    "lblRememberMe":"مرا به خاطر بسپار",
+    "@lblRememberMe" :{
+      "description":"مرا به خاطر بسپار"
+    },
+    "lblForgotPassword":"رمز عبور را فراموش کرده ام",
+    "@lblForgotPassword" : {
+      "description": "رمز عبور را فراموش کرده ام"
+    },
+    "btnSignIn":"ورود",
+    "@btnSignIn":{
+      "description": "ورود"
+    },
+    "btnSignUp":"ثبت نام",
+    "@btnSignUp": {
+      "description": "ثبت نام"
+    },
+    "txt_if_you_have_no_account":"اگر حساب کاربری ندارید؟ ",
+    "@txt_if_you_have_no_account": {
+      "description": "اگر حساب کاربری ندارید"
+    },
+    "txt_beautiyon_expert_app":"برنامه متخصصین زیبایی",
+    "@txt_beautiyon_expert_app": {
+      "description": "برنامه متخصصین زیبایی"
+    },
+    "hnt_email":"demo@gmail.com",
+    "@hnt_email": {
+      "description" : "demo@gmail.com"
+    },
+    "hnt_password":"demo1234",
+    "@hnt_password" : {
+      "description": "demo1234"
+    },
+    "lbl_back":"بازگشت",
+    "@lbl_back": {
+      "description": "بازگشت"
+    },
+    "lbl_sign_up":"ثبت نام",
+    "@lbl_sign_up": {
+        "description" : "ثبت نام"
+    },
+    "lbl_confirm_password":"تایید رمز عبور",
+    "@lbl_confirm_password": {
+      "description" : "تایید رمز عبور"
+    },
+    "txt_i_accept_the":"من قبول میکنم ",
+    "@txt_i_accept_the": {
+      "description": "من قبول میکنم "
+    },
+    "txt_privacy_and_policy": "سیاست حریم خصوصی",
+    "@txt_privacy_and_policy": {
+      "description": "سیاست حریم خصوصی"
+    },
+    "btn_next":"ادامه",
+    "@btn_next": {
+      "description": "ادامه"
+    },
+    "txt_already_have_an_account":"آیا شما در حال حاضر حساب کاربری دارید؟ ",
+    "@txt_already_have_an_account": {
+      "description": "آیا شما در حال حاضر حساب کاربری دارید"
+    },
+    "txt_please_enter_email":"لطفا ایمیل وارد کنید",
+    "@txt_please_enter_email": {
+      "description": "لطفا ایمیل وارد کنید"
+    },
+    "txt_password_should_be_of_minimum_2_characters":"رمز عبور باید حداقل 2 کاراکتر باشد",
+    "@txt_password_should_be_of_minimum_2_characters": {
+      "description":"رمز عبور باید حداقل 2 کاراکتر باشد"
+    },
+    "txt_password_do_not_match":"رمزهای ورود مطابقت ندارند",
+    "@txt_password_do_not_match":{
+      "description": "رمزهای ورود مطابقت ندارند"
+    },
+    "txt_please_accept_privacy_and_policy":"لطفا سیاست حریم خصوصی را برای تکمیل ثبت نام خود بپذیرید",
+    "@txt_please_accept_privacy_and_policy": {
+      "description": "لطفا سیاست حریم خصوصی را برای تکمیل ثبت نام خود بپذیرید"
+    },
+    "txt_please_enter_valid_email":"لطفا ایمیل معتبر وارد نمایید",
+    "@txt_please_enter_valid_email" : {
+      "description": "لطفا ایمیل معتبر وارد نمایید"
+    },
+    "lbl_generall_information":"اطلاعات عمومی",
+    "@lbl_generall_information": {
+      "description":"اطلاعات عمومی"
+    },
+    "lbl_parlour_name":"نام سالن",
+    "@lbl_parlour_name": {
+      "description": "نام سالن"
+    },
+    "hnt_parlour_name":"سالن زیبایی زندگی",
+    "@hnt_parlour_name": {
+      "description": "سالن زیبایی زندگی"
+    },
+    "lbl_owner_name":"نام مسئول آرایشگاه",
+    "@lbl_owner_name": {
+      "description": "نام مسئول آرایشگاه"
+    },
+    "hnt_owner_name":"جسیکا مری",
+    "@hnt_owner_name": {
+      "description":"جسیکا مری"
+    },
+    "lbl_phone_number":"شماره تلفن",
+    "@lbl_phone_number": {
+      "description":"شماره تلفن"
+    },
+    "hnt_phone_number":"9898989898",
+    "@hnt_phone_number":{
+      "description":"9898989898"
+    },
+    "lbl_address":"آدرس",
+    "@lbl_address": {
+      "description": "آدرس" 
+    },
+    "hnt_address":"خیابان 58 دولحا لندن - آمریکا",
+    "@hnt_address": {
+      "description": "خیابان 58 دولحا لندن - آمریکا"
+    },
+    "lbl_saloon_type":"نوع سالن",
+    "@lbl_saloon_type": {
+      "description": "نوع سالن"
+    },
+    "lbl_male":"آقا",
+    "@lbl_male":{
+      "description": "آقا"
+    },
+    "lbl_female":"خانم",
+    "@lbl_female":{
+      "description": "خانم"
+    },
+    "lbl_unisex":"آقا و خانم",
+    "@lbl_unisex":{
+      "description": "آفا و خانم"
+    },
+    "lbl_description":"توضیحات",
+    "@lbl_description":{
+      "description": "توضیحات"
+    },
+    "hnt_description":"این یک توضیح است",
+    "@hnt_description":{
+      "description":"این یک توضیح است"
+    },
+    "lbl_upload_image":"آپلود عکس",
+    "@lbl_upload_image": {
+      "description": "آپلود عکس"
+    },
+    "btn_create_account":"ایجاد حساب کاربری",
+    "@btn_create_account": {
+      "description":"ایجاد حساب کاربری"
+    },
+    "lbl_action":"عملیات",
+    "@lbl_action": {
+      "description":"عملیات"
+    },
+    "lbl_take_picture":"عکس گرفتن",
+    "@lbl_take_picture":{
+      "description":"عکس گرفتن"
+    },
+    "lbl_choose_from_library":"انتخاب از کتابخانه",
+    "@lbl_choose_from_library": {
+      "description": "انتخاب از کتابخانه"
+    },
+    "lbl_cancel":"لغو کردن",
+    "@lbl_cancel": {
+      "description":"لغو کردن"
+    },
+    "txt_please_enter_parlour_name":"لطفا نام سالن را وارد کنید",
+    "@txt_please_enter_parlour_name":{
+      "description":"لطفا نام سالن را وارد کنید"
+    },
+    "txt_please_enter_phone_number":"لطفا شماره تلفن را وارد کنید",
+    "@txt_please_enter_phone_number":{
+      "description":"لطفا شماره تلفن را وارد کنید"
+    },
+    "txt_please_enter_valid_phone_number":"لطفا یک شماره تماس معتبر وارد کنید",
+    "@txt_please_enter_valid_phone_number": {
+      "description":"لطفا یک شماره تماس معتبر وارد کنید"
+    },
+    "txt_please_enter_owner_name":"لطفا نام مسئول را وارد کنید",
+    "@txt_please_enter_owner_name": {
+      "description":"لطفا نام مسئول را وارد کنید"
+    },
+    "txt_please_enter_address":"لطفا آدرس را وارد کنید",
+    "@txt_please_enter_address": {
+      "description": "لطفا آدرس را وارد کنید"
+    },
+    "txt_please_enter_description":"لطفا توضیحات را وارد کنید",
+    "@txt_please_enter_description": {
+      "description": "لطفا توضیحات را وارد کنید"
+    },
+    "txt_please_select_image":"لطفا تصویر را انتخاب کنید",
+    "@txt_please_select_image": {
+      "description":"لطفا تصویر را انتخاب کنید"
+    },
+    "btn_update_profile":"بروزرسانی پروفایل",
+    "@btn_update_profile": {
+      "description":"بروزرسانی پروفایل"
+    },
+    "lbl_about":"معرفی",
+    "@lbl_about": {
+      "description":"معرفی"
+    },
+    "lbl_opening_hours":"ساعات کاری",
+    "@lbl_opening_hours": {
+      "description": "ساعات کاری"
+    },
+    "txt_profile_will_be_shown_here":"پروفایل در اینجا نشان داده می شود",
+    "@txt_profile_will_be_shown_here": {
+      "description":"پروفایل در اینجا نشان داده می شود"
+    },
+    "lbl_user_request":"درخواست کاربر",
+    "@lbl_user_request": {
+      "description":"درخواست کاربر"
+    },
+    "lbl_amount":"مبلغ",
+    "@lbl_amount" :{
+      "description":"مبلغ"
+    },
+    "txt_user_request_will_be_shown_here":"درخواست کاربر در اینجا نمایش داده می شود",
+    "@txt_user_request_will_be_shown_here": {
+      "description":"درخواست کاربر در اینجا نمایش داده می شود"
+    },
+    "lbl_complete_request":"تکمیل درخواست",
+    "@lbl_complete_request":{
+      "description":"تکمیل درخواست"
+    },
+    "txt_confirmation_message_for_complete_request":"آیا مطمئن هستید که می خواهید این درخواست را تکمیل کنید؟",
+    "@txt_confirmation_message_for_complete_request": {
+      "description":"آیا مطمئن هستید که می خواهید این درخواست را تکمیل کنید"
+    },
+    "lbl_no":"خیر",
+    "@lbl_no": {
+      "description":"خیر"
+    },
+    "lbl_yes":"بله",
+    "@lbl_yes" :{
+      "description":"بله"
+    },
+    "lbl_cancel_request":"لغو درخواست",
+    "@lbl_cancel_request": {
+      "description":"لغو درخواست"
+    },
+    "txt_confirmation_message_for_cancel_request":"آیا مطمئن هستید که می خواهید این درخواست را لغو کنید؟",
+    "@txt_confirmation_message_for_cancel_request": {
+      "description":"آیا مطمئن هستید که می خواهید این درخواست را لغو کنید؟"
+    },
+    "lbl_appointment_history":"تاریخچه قرارملاقات",
+    "@lbl_appointment_history": {
+      "description":"تاریخچه قرارملاقات"
+    },
+    "txt_appointment_history_will_be_shown_here":"تاریخچه قرارملاقات در اینجا نمایش داده می شود",
+    "@txt_appointment_history_will_be_shown_here": {
+      "description":"تاریخچه قرارملاقات در اینجا نمایش داده می شود"
+    },
+    "lbl_weekly_earn":"درآمد هفتگی",
+    "@lbl_weekly_earn": {
+      "description": "درآمد هفتگی"
+    },
+    "txt_weekly_earn_will_shown_here":"درآمد هفتگی در اینجا نمایش داده می شود",
+    "@txt_weekly_earn_will_shown_here": {
+      "description":"درآمد هفتگی در اینجا نمایش داده می شود"
+    },
+    "lbl_total":"مجموع",
+    "@lbl_total": {
+      "description":"مجموع"
+    },
+    "lbl_services":"خدمات",
+    "@lbl_services":{
+      "description":"خدمات"
+    },
+    "lbl_pending":"در حال بررسی",
+    "@lbl_pending": {
+      "description": "در حال بررسی"
+    },
+    "lbl_completed":"تکمیل شده",
+    "@lbl_completed" : {
+      "description": "تکمیل شده" 
+    },
+    "lbl_complete_our_goals":"تکمیل اهداف خود",
+    "@lbl_complete_our_goals": {
+      "description": "تکمیل اهداف خود"
+    },
+    "lbl_experts":"متخصصین",
+    "@lbl_experts" : {
+      "description":"متخصصین"
+    },
+    "lbl_delete":"حذف",
+    "@lbl_delete": {
+      "description": "حذف برچسب برای صفحه نمایش لیست"
+    },
+    "lbl_edit":"ویرایش",
+    "@lbl_edit": {
+      "description":"ویرایش برچسب برای صفحه نمایش لیست"
+    },
+    "txt_expert_will_shown_here":"فهرست متخصص ها در اینجا نشان داده می شود",
+    "@txt_expert_will_shown_here": {
+      "description": "فهرست متخصص ها در اینجا نشان داده می شود"
+    },
+    "btn_add_new_expert":"اضافه کردن متخصص زیبایی جدید + ",
+    "@btn_add_new_expert": {
+      "description": "اضافه کردن متخصص زیبایی جدید + "
+    },
+    "lbl_delete_expert":"حذف متخصص",
+    "@lbl_delete_expert" : {
+      "description":"حذف متخصص"
+    },
+    "txt_confirmation_message_for_delete_expert":"آیا مطمئن هستید که می خواهید این متخصص را حذف کنید؟",
+    "@txt_confirmation_message_for_delete_expert" : {
+      "description": "آیا مطمئن هستید که می خواهید این متخصص را حذف کنید؟"
+    },
+    "lbl_coupons":"کوپن",
+    "@lbl_coupons": {
+      "description":"کوپن"
+    },
+    "txt_coupon_list_will_shown_here":"لیست کوپن در اینجا نمایش داده می شود",
+    "@txt_coupon_list_will_shown_here": {
+      "description": "لیست کوپن در اینجا نمایش داده می شود"
+    },
+    "btn_add_new_coupon":"افزودن کوپن جدید +",
+    "@btn_add_new_coupon" : {
+      "description" : "افزودن کوپن جدید +"
+    },
+    "lbl_delete_coupon":"حذف کوپن",
+    "@lbl_delete_coupon": {
+      "description":"حذف کوپن"
+    },
+    "txt_confirmation_message_for_delete_Coupon":"آیا مطمئن هستید که می خواهید این کوپن را حذف کنید؟",
+    "@txt_confirmation_message_for_delete_Coupon" : {
+      "description": "آیا مطمئن هستید که می خواهید این کوپن را حذف کنید؟"
+    },
+    "lbl_add_service_variant":"اضافه کردن نوع خدمات",
+    "@lbl_add_service_variant": {
+      "description": "اضافه کردن نوع خدمات"
+    },
+    "txt_service_will_shown_here":"فهرست خدمات در اینجا نشان داده می شود",
+    "@txt_service_will_shown_here": {
+      "description": "فهرست خدمات در اینجا نشان داده می شود"
+    },
+    "btn_add_new_service":"اضافه کردن خدمات جدید +",
+    "@btn_add_new_service": {
+      "description": "اضافه کردن خدمات جدید +"
+    },
+    "lbl_delete_service":"حذف خدمات",
+    "@lbl_delete_service": {
+      "description": "حذف خدمات"
+    },
+    "txt_confirmation_message_for_delete_service":"آیا مطمئن هستید که می خواهید این سرویس را حذف کنید؟",
+    "@txt_confirmation_message_for_delete_service": {
+      "description": "آیا مطمئن هستید که می خواهید این سرویس را حذف کنید؟"
+    },
+    "lbl_delete_service_variant":"حذف نوع خدمات",
+    "@lbl_delete_service_variant" : {
+      "description": "حذف نوع خدمات"
+    },
+    "txt_confirmation_message_for_delete_service_variant":"آیا مطمئن هستید که می خواهید این نوع خدمات را حذف کنید؟",
+    "@txt_confirmation_message_for_delete_service_variant": {
+      "description": "txt_confirmation_message_for_delete_service_variant"
+    },
+    "lbl_min":"دقیقه",
+    "@lbl_min": {
+      "description": "دقیقه"
+    },
+    "btn_save_service":"ذخیره خدمات +",
+    "@btn_save_service" : {
+      "description": "ذخیره خدمات +"
+    },
+    "lbl_edit_service":"ویرایش خدمات",
+    "@lbl_edit_service": {
+      "description": "ویرایش خدمات"
+    },
+    "lbl_Add_service":"اضافه کردن خدمات",
+    "@lbl_Add_service": {
+      "description": "اضافه کردن خدمات"
+    },
+    "lbl_service_name":"نام خدمات",
+    "@lbl_service_name": {
+      "description": "نام خدمات"
+    },
+    "hnt_service_name":"اسپا، صورت، آرایش",
+    "@hnt_service_name": {
+      "description": "اسپا، صورت، آرایش"
+    },
+    "lbl_tap_to_add_image":"برای اضافه کردن تصویر ضربه بزنید",
+    "@lbl_tap_to_add_image": {              
+      "description": "برای اضافه کردن تصویر ضربه بزنید"
+    },
+    "txt_please_enter_name":"لطفا نام را وارد کنید",
+    "@txt_please_enter_name": {
+      "description": "لطفا نام را وارد کنید"
+    },
+    "btn_save_service_variant":"ذخیره نوع خدمات +",
+    "@btn_save_service_variant": {
+      "description": "ذخیره نوع خدمات +"
+    },
+    "lbl_variant":"نوع",
+    "@lbl_variant": {
+      "description": "نوع"
+    },
+    "lbl_price":"قیمت",
+    "@lbl_price": {
+      "description": "قیمت"
+    },
+    "hnt_price":"100",
+    "@hnt_price": {
+      "description": "100"
+    },
+    "lbl_time":"زمان",
+    "@lbl_time": {
+      "description": "زمان"
+    },
+    "hnt_time":"دقیقه را وارد کنید",
+    "@hnt_time": {
+      "description": "دقیقه را وارد کنید"
+    },
+    "txt_please_enter_price":"لطفا قیمت را وارد کنید",
+    "@txt_please_enter_price": {
+      "description": "لطفا قیمت را وارد کنید"
+    },
+    "txt_please_enter_time":"لطفا زمان را وارد کنید",
+    "@txt_please_enter_time": {
+      "description": "لطفا زمان را وارد کنید"
+    },
+    "btn_save_expert":"ذخیره متخصص + ",
+    "@btn_save_expert": {
+      "description": "ذخیره متخصص + "
+    },
+    "lbl_edit_expert":"ویرایش متخصص زیبایی",
+    "@lbl_edit_expert": {
+      "description": "ویرایش متخصص زیبایی"
+    },
+    "lbl_add_Expert":"اضافه کردن متخصص زیبایی",
+    "@lbl_add_Expert": {
+      "description": "اضافه کردن متخصص زیبایی"
+    },
+    "lbl_expert_name":"نام متخصص",
+    "@lbl_expert_name": {
+      "description": "نام متخصص"
+    },
+    "hnt_expert_name":"جسیکا مری",
+    "@hnt_expert_name": {
+      "description":"جسیکا مری"
+    },
+    "lbl_expert_phone":"شماره همراه",
+    "@lbl_expert_phone": {
+      "description": "شماره همراه"
+    },
+    "hnt_expert_phone":"********09",
+    "@hnt_expert_phone": {
+      "description":"********09"
+    },
+    "lbl_expert_password":"رمز عبور",
+    "@lbl_expert_password": {
+      "description": "رمز عبور"
+    },
+    "hnt_expert_password":"رمز عبور",
+    "@hnt_expert_password": {
+      "description":"رمز عبور"
+    },
+    "lbl_expert_confirmpassword":"تایید رمز عبور",
+    "@lbl_expert_confirmpassword": {
+      "description": "تایید رمز عبور"
+    },
+    "hnt_expert_confirmpassword":"تایید رمز عبور",
+    "@hnt_expert_confirmpassword": {
+      "description":"تایید رمز عبور"
+    },
+    "lbl_expert_staff_can_edit_service_varient":"به متخصص اجازه می دهید دسته های سرویس را تغییر دهد؟",
+    "@lbl_expert_staff_can_edit_service_varient": {
+      "description": "به متخصص اجازه می دهید دسته های سرویس را تغییر دهد؟"
+    },
+    "lbl_expert_service_for":"انجام سرویس برای:",
+    "@lbl_expert_service_for": {
+      "description": "انجام سرویس برای:"
+    },
+    "lbl_men":"آقایان",
+    "@lbl_men": {
+      "description": "آقایان"
+    },
+    "lbl_women":"بانوان",
+    "@lbl_women": {
+      "description": "بانوان"
+    },
+    "lbl_staff_varient":"نام لاین کاری",
+    "@lbl_staff_varient": {
+      "description": "نام لاین کاری"
+    },
+    "txt_something_went_wrong":"مشکلی پیش آمد! بعداً دوباره امتحان کنید",
+    "@txt_something_went_wrong": {
+      "description": "مشکلی پیش آمد! بعداً دوباره امتحان کنید"
+    },
+    "btn_save_coupon":"ذخیره کوپن +",
+    "@btn_save_coupon": {
+      "description": "ذخیره کوپن +"
+    },
+    "lbl_Add_coupon":"اضافه کردن کوپن",
+    "@lbl_Add_coupon": {
+      "description": "اضافه کردن کوپن"
+    },
+    "lbl_coupon_name":"نام کوپن",
+    "@lbl_coupon_name": {
+      "description": "نام کوپن"
+    },
+    "hnt_coupon_name":"کوپن زیبایی",
+    "@hnt_coupon_name": {
+      "description": "کوپن زیبایی"
+    },
+    "lbl_coupon_number":"شماره کوپن",
+    "@lbl_coupon_number": {
+      "description":"شماره کوپن"
+    },
+    "hnt_coupon_number":"Beauty89",
+    "@hnt_coupon_number": {
+      "description": "Beauty89"
+    },
+    "lbl_coupon_description":"توضیحات کوپن",
+    "@lbl_coupon_description": {
+      "description": "توضیحات کوپن"
+    },
+    "lbl_select_coupon_type":"نوع کوپن را انتخاب کنید",
+    "@lbl_select_coupon_type": {
+      "description": "نوع کوپن را انتخاب کنید"
+    },
+    "lbl_percentage":"درصد",
+    "@lbl_percentage": {
+      "description": "درصد"
+    },
+    "hnt_coupon_type":"نوع کوپن را انتخاب کنید",
+    "@hnt_coupon_type": {
+      "description": "نوع کوپن را انتخاب کنید"
+    },
+    "lbl_offer_price":"قیمت/درصد پیشنهادی",
+    "@lbl_offer_price": {
+      "description": "قیمت/درصد پیشنهادی"
+    },
+    "hnt_offer_price":"100",
+    "@hnt_offer_price": {
+      "description": "100"
+    },
+    "lbl_min_service_amount":"حداقل مبلغ خدمات",
+    "@lbl_min_service_amount": {
+      "description": "حداقل مبلغ خدمات"
+    },
+    "hnt_min_service_amount":"250",
+    "@hnt_min_service_amount": {
+      "description": "حداقل مبلغ خدمات"
+    },
+    "lbl_select_usesRestriction":"انتخاب محدودیت استفاده",
+    "@lbl_select_usesRestriction": {
+      "description": "انتخاب محدودیت استفاده"
+    },
+    "hnt_usesRestriction":"محدودیت استفاده",
+    "@hnt_usesRestriction": {
+      "description": "محدودیت استفاده"
+    },
+    "lbl_select_start_date":"تاریخ شروع را انتخاب کنید",
+    "@lbl_select_start_date" : {
+      "description": "تاریخ شروع را انتخاب کنید"
+    },
+    "hnt_select_start_date":"تاریخ شروع",
+    "@hnt_select_start_date": {
+      "description": "تاریخ شروع"
+    },
+    "lbl_select__end_date":"تاریخ پایان را انتخاب کنید",
+    "@lbl_select__end_date": {
+      "description": "تاریخ پایان را انتخاب کنید"
+    },
+    "hnt_select_end_date":"تاریخ پایان",
+    "@hnt_select_end_date": {
+      "description": "تاریخ پایان"
+    },
+    "txt_please_enter_offer_price":"لطفا قیمت پیشنهادی را وارد کنید",
+    "@txt_please_enter_offer_price": {
+      "description": "لطفا قیمت پیشنهادی را وارد کنید"
+    },
+    "txt_pleae_enter_min_service_price":"لطفا قیمت حداقلی خدمات را وارد کنید",
+    "@txt_pleae_enter_min_service_price": {
+      "description": "لطفا قیمت حداقلی خدمات را وارد کنید"
+    },
+    "txt_please_enter_coupon_number":"لطفا شماره کوپن را وارد کنید",
+    "@txt_please_enter_coupon_number": {
+      "description": "لطفا شماره کوپن را وارد کنید"
+    },
+    "txt_please_enter_usesRestriction":"لطفا محدودیت کاربر را وارد کنید",
+    "@txt_please_enter_usesRestriction": {
+      "description": "لطفا محدودیت کاربر را وارد کنید"
+    },
+    "txt_please_select_coupon_type":"لطفا نوع کوپن را انتخاب کنید",
+    "@txt_please_select_coupon_type": {
+      "description": "لطفا نوع کوپن را انتخاب کنید"
+    },
+    "txt_please_select_start_date":"لطفا تاریخ شروع را انتخاب کنید",
+    "@txt_please_select_start_date": {
+      "description": "لطفا تاریخ شروع را انتخاب کنید"
+    },
+    "txt_please_select_end_date":"لطفا تاریخ پایان را انتخاب کنید",
+    "@txt_please_select_end_date": {
+      "description": "لطفا تاریخ پایان را انتخاب کنید"
+    },
+    "lbl_gallery":"گالری",
+    "@lbl_gallery": {
+      "description": "گالری"
+    },
+    "txt_gallery_will_shown_here":"لیست گالری در اینجا نمایش داده می شود",
+    "@txt_gallery_will_shown_here": {
+      "description": "لیست گالری در اینجا نمایش داده می شود"
+    },
+    "btn_add_new_gallery":"اضافه کردن گالری جدید +",
+    "@btn_add_new_gallery": {
+      "description": "اضافه کردن گالری جدید +"
+    },
+    "lbl_delete_gallery":"حذف گالری",
+    "@lbl_delete_gallery": {
+      "description": "حذف گالری"
+    },
+    "txt_confirmation_message_for_delete_gallery":"آیا مطمئنید که میخواهید این گالری را پاک کنید ؟",
+    "@txt_confirmation_message_for_delete_gallery": {
+      "description": "آیا مطمئنید که میخواهید این گالری را پاک کنید ؟"
+    },
+    "lbl_products":"محصولات",
+    "@lbl_products": {
+      "description": "محصولات"
+    },
+    "txt_products_will_shown_here":"لیست محصولات در اینجا نمایش داده می شود",
+    "@txt_products_will_shown_here": {
+      "description": "لیست محصولات در اینجا نمایش داده می شود"
+    },
+    "btn_add_new_product":"اضافه کردن محصول جدید + ",
+    "@btn_add_new_product": {
+      "description": "اضافه کردن محصول جدید + "
+    },
+    "lbl_delete_product":"حذف محصول",
+    "@lbl_delete_product": {
+      "description":"حذف محصول"
+    },
+    "txt_confirmation_message_for_delete_product":"آیا مطمئن هستید که می خواهید این محصول را حذف کنید؟",
+    "@txt_confirmation_message_for_delete_product": {
+      "description": "آیا مطمئن هستید که می خواهید این محصول را حذف کنید؟"
+    },
+    "btn_save_gallery":"ذخیره گالری +",
+    "@btn_save_gallery": {
+      "description": "ذخیره گالری +"
+    },
+    "lbl_Add_gallery":"اضافه کردن گالری",
+    "@lbl_Add_gallery": {
+      "description": "اضافه کردن گالری"
+    },
+    "btn_save_product":"ذخیره محصولات + ",
+    "@btn_save_product": {
+      "description": "ذخیره محصولات + "
+    },
+    "lbl_edit_product":"ویرایش محصول",
+    "@lbl_edit_product": {
+      "description": "ویرایش محصول"
+    },
+    "lbl_add_product":"اضافه کردن محصول",
+    "@lbl_add_product": {
+      "description": "اضافه کردن محصول"
+    },
+    "lbl_product_name":"نام محصول",
+    "@lbl_product_name": {
+      "description": "نام محصول"
+    },
+    "hnt_product_name":"شامپو",
+    "@hnt_product_name": {
+      "description": "شامپو"
+    },
+    "lbl_quantity":"اندازه",
+    "@lbl_quantity": {
+      "description": "اندازه"
+    },
+    "hnt_quantity":"100L",
+    "@hnt_quantity": {
+      "description": "100L"
+    },
+    "txt_please_enter_quantity":"لطفا اندازه را وارد کنید",
+    "@txt_please_enter_quantity": {
+      "description": "لطفا اندازه را وارد کنید"
+    },
+    "lbl_beautyon":"زیبایی",
+    "@lbl_beautyon": {
+      "description": "زیبایی"
+    },
+    "lbl_loading":"Loading...",
+    "@lbl_loading": {
+      "description": "loading"
+    },
+    "lbl_orders":"سفارشات",
+    "@lbl_orders": {
+      "description": "سفارشات"
+    },
+    "lbl_qty":"تعداد",
+    "@lbl_qty": {
+      "description": "تعداد"
+    },
+    "txt_orders_will_shown_here":"سفارشات در اینجا نشان داده می شود",
+    "@txt_orders_will_shown_here": {
+      "description": "سفارشات در اینجا نشان داده می شود"
+    },
+    "lbl_confirm_order":"تأیید سفارش",
+    "@lbl_confirm_order": {
+      "description": "تأیید سفارش"
+    },
+    "txt_confirmation_message_for_confirm_order":"آیا مطمئن هستید که می خواهید این سفارش را تایید کنید؟",
+    "@txt_confirmation_message_for_confirm_order": {
+      "description": "آیا مطمئن هستید که می خواهید این سفارش را تایید کنید؟"
+    },
+    "btn_save_setting":"ذخیره تنظیمات",
+    "@btn_save_setting": {
+      "description": "ذخیره تنظیمات"
+    },
+    "lbl_settings":"تنظیمات",
+    "@lbl_settings": {
+      "description": "تنظیمات"
+    },
+    "lbl_shop_open":"باز کردن فروشگاه",
+    "@lbl_shop_open": {
+      "description": "باز کردن فروشگاه"
+    },
+    "lbl_help_and_support":"کمک و پشتیبانی ",
+    "@lbl_help_and_support": {
+      "description": "کمک و پشتیبانی "
+    },
+    "lbl_faq":"سوالات متداول",
+    "@lbl_faq": {
+      "description": "سوالات متداول"
+    },
+    "txt_faq_will_shown_here":"سوالات متداول در اینجا نشان داده می شوند",
+    "@txt_faq_will_shown_here": {
+      "description": "سوالات متداول در اینجا نشان داده می شوند"
+    },
+    "lbl_change_password":"تغییر رمز عبور",
+    "@lbl_change_password": {
+      "description": "تغییر رمز عبور"
+    },
+    "lbl_old_password":"رمز عبور قبلی",
+    "@lbl_old_password": {
+      "description": "رمز عبور قبلی"
+    },
+    "lbl_new_password":"رمز عبور جدید",
+    "@lbl_new_password": {
+      "description": "رمز عبور جدید"
+    },
+    "btn_change_password":"تغییر رمز عبور",
+    "@btn_change_password": {
+      "description": "تغییر رمز عبور"
+    },
+    "txt_password_and_confirm_password_do_not_match":"رمز عبور و تایید رمز عبور مطابقت ندارد",
+    "@txt_password_and_confirm_password_do_not_match": {
+      "description": "رمز عبور و تایید رمز عبور مطابقت ندارد"
+    },
+    "txt_please_enter_old_password":"لطفا رمز عبور قبلی را وارد کنید",
+    "@txt_please_enter_old_password": {
+      "description": "لطفا رمز عبور قبلی را وارد کنید"
+    },
+    "txt_please_enter_new_password":"لطفا رمز جدید را وارد کنید",
+    "@txt_please_enter_new_password": {
+      "description": "لطفا رمز جدید را وارد کنید"
+    },
+    "lbl_my_wallet":"کیف پول من",
+    "@lbl_my_wallet": {
+      "description": "کیف پول من"
+    },
+    "lbl_total_earning":"درآمد کل",
+    "@lbl_total_earning": {
+      "description": "درآمد کل"
+    },
+    "lbl_paid_to_app":"پرداخت به برنامه",
+    "@lbl_paid_to_app": {
+      "description": "پرداخت به برنامه"
+    },
+    "lbl_payment_pending_from_app":"پرداخت در انتظار از برنامه",
+    "@lbl_payment_pending_from_app": {
+      "description": "پرداخت در انتظار از برنامه"
+    },
+    "lbl_paid_by_app":"پرداخت شده توسط برنامه",
+    "@lbl_paid_by_app": {
+      "description": "پرداخت شده توسط برنامه"
+    },
+    "lbl_pending_to_give_app":"در انتظار پرداخت برنامه",
+    "@lbl_pending_to_give_app": {
+      "description" : "در انتظار پرداخت برنامه"
+    },
+    "btn_mask_as_paid":"علامت گذاری به عنوان پرداخت شده ",
+    "@btn_mask_as_paid": {
+      "description": "علامت گذاری به عنوان پرداخت شده "
+    },
+    "txt_nothing_yet_to_see_here":"هیچ چیز هنوز برای دیدن اینجا نیست",
+    "@txt_nothing_yet_to_see_here": {
+      "description": "هیچ چیز هنوز برای دیدن اینجا نیست"
+    },
+    "lbl_confirm_dialog":"تایید گفتگو",
+    "@lbl_confirm_dialog": {
+      "description": "تایید گفتگو"
+    },
+    "txt_confirmation_message_for_paid_to_admin":"آیا مطمئن هستید که می خواهید این را به مدیر پرداخت کنید",
+    "@txt_confirmation_message_for_paid_to_admin": {
+      "description": "آیا مطمئن هستید که می خواهید این را به مدیر پرداخت کنید"
+    },
+    "lbl_notification":"اعلان ها",
+    "@lbl_notification": {
+      "description": "اعلان ها"
+    },
+    "txt_notification_will_shown_here":"اعلان ها در اینجا نمایش داده می شود",
+    "@txt_notification_will_shown_here": {
+      "description": "اعلان ها در اینجا نمایش داده می شود"
+    },
+    "lbl_accept":"پذیرفتن",
+    "@lbl_accept": {
+      "description": "پذیرفتن"
+    },
+    "lbl_accepted":"تایید",
+    "@lbl_accepted": {
+      "description": "تایید"
+    },
+    "lbl_ok":"OK",
+    "@lbl_ok": {
+      "description": "OK"
+    },
+    "lbl_date_and_time":"تاریخ و زمان",
+    "@lbl_date_and_time": {
+      "description": "تاریخ و زمان"
+    },
+    "lbl_date":"تاریخ",
+    "@lbl_date": {
+      "description": "تاریخ"
+    },
+    "lbl_service":"سرویس",
+    "@lbl_service": {
+      "description": "سرویس"
+    },
+    "lbl_subTotal":"زیر مجموع",
+    "@lbl_subTotal": {
+      "description": "زیر مجموع"
+    },
+    "lbl_discount_by_coupon":"تخفیف با کوپن",
+    "@lbl_discount_by_coupon": {
+      "description": "تخفیف با کوپن"
+    },
+    "lbl_service_summary":"خلاصه خدمات",
+    "@lbl_service_summary": {
+      "description":"خلاصه خدمات"
+    },
+    "btn_confirm":"تایید",
+    "@btn_confirm": {
+      "description": "تایید"
+    },
+    "lbl_confirm_service":"تأیید خدمات",
+    "@lbl_confirm_service": {
+      "description": "تأیید خدمات"
+    },
+    "txt_confirmation_message_for_confirm_service":"آیا مطمئن هستید که می خواهید این سرویس را تأیید کنید؟",
+    "@txt_confirmation_message_for_confirm_service": {
+      "description":"آیا مطمئن هستید که می خواهید این سرویس را تأیید کنید؟"
+    },
+    "lbl_update_profile":"بروزرسانی پروفایل",
+    "@lbl_update_profile": {
+      "description":"بروزرسانی پروفایل"
+    },
+    "txt_easy_to_find_customer":"مشتریت رو راحت پیدا کن",
+    "@txt_easy_to_find_customer": {
+      "description": "مشتریت رو راحت پیدا کن"
+    },
+    "txt_easy_to_find_customer_detail_text":"با ایجاد یک پروفایل تجاری حرفه ای امکان رزرو و نوبت دهی آنلاین خدمات، اطلاعات اولیه در خصوص رنج قیمت و خدمات شما و همچنین نظرات مشتریان فراهم خواهد شد.",
+    "@txt_easy_to_find_customer_detail_text": {
+      "description": " با ایجاد یک پروفایل تجاری حرفه ای امکان رزرو و نوبت دهی آنلاین خدمات، اطلاعات اولیه در خصوص رنج قیمت و خدمات شما و همچنین نظرات مشتریان فراهم خواهد شد."
+    },
+    "txt_branding_for_your_parlour":"نام تجاری برای سالن شما",
+    "@txt_branding_for_your_parlour": {
+      "description": "پروفایل تجاری برای سالن شما"
+    },
+    "txt_branding_for_your_parlour_detail_text":"داشتن یک پروفایل تجاری می تواند در افزایش اعتبار تجارت شما نقش قابل توجهی داشته باشد و در ۲۴ ساعت شبانه روز و زمانی که شما حضور ندارید؛ پروفایل تجاری شما همیشه در دسترس و باعث جذب مشتریان می شود.",
+    "@txt_branding_for_your_parlour_detail_text": {
+      "description": "داشتن یک پروفایل تجاری می تواند در افزایش اعتبار تجارت شما نقش قابل توجهی داشته باشد و در ۲۴ ساعت شبانه روز و زمانی که شما حضور ندارید؛ پروفایل تجاری شما همیشه در دسترس و باعث جذب مشتریان می شود."
+    },
+    "txt_get_customer_feedback":"دریافت بازخورد مشتری",
+    "@txt_get_customer_feedback": {
+      "description": "دریافت بازخورد مشتری"
+    },
+    "txt_get_customer_feedback_detail_text":"با استفاده از بخش نظرسنجی Business Profile می توانید ارتباط بیشتری با مشتریان داشته و از نظرات مشتریان در جهت بهبود و ارتقای خدمات خود استفاده نمایید.",
+    "@txt_get_customer_feedback_detail_text": {
+      "description": "با استفاده از بخش نظرسنجی Business Profile می توانید ارتباط بیشتری با مشتریان داشته و از نظرات مشتریان در جهت بهبود و ارتقای خدمات خود استفاده نمایید."
+    },
+    "btn_get_started":"شروع کنید",
+    "@btn_get_started": {
+      "description": "شروع کنید"
+    },
+    "lbl_forgot_password":"رمز عبور را فراموش کرده ام",
+    "@lbl_forgot_password": {
+      "description": "رمز عبور را فراموش کرده ام"
+    },
+    "btn_send_code":"ارسال کد",
+    "@btn_send_code": {
+      "description": "ارسال کد"
+    },
+    "btn_submit":"ارسال",
+    "@btn_submit": {
+      "description": "ارسال"
+    },
+    "lbl_verify_otp":"رمز یکبار مصرف را تأیید کنید",
+    "@lbl_verify_otp": {
+      "description": "رمز یکبار مصرف را تأیید کنید"
+    },
+    "txt_enter_the_verification_code_from":"کد تأیید را وارد کنید ",
+    "@txt_enter_the_verification_code_from": {
+      "description": "کد تأیید را وارد کنید "
+    },
+    "txt_the_phone_we_just_sent_you":"تلفنی که به تازگی برای شما فرستادیم ",
+    "@txt_the_phone_we_just_sent_you": {
+      "description": "تلفنی که به تازگی برای شما فرستادیم "
+    },
+    "txt_check_your_mail_for_otp":"ایمیل خود را برای رمز یکبار مصرف بررسی کنید",
+    "@txt_check_your_mail_for_otp": {
+      "description": "ایمیل خود را برای رمز یکبار مصرف بررسی کنید"
+    },
+    "txt_please_enter_otp":"لطفا رمز یکبار مصرف را وارد کنید",
+    "@txt_please_enter_otp": {
+      "description": "لطفا رمز یکبار مصرف را وارد کنید"
+    },
+    "txt_successfully_add":"با موفقیت اضافه شد",
+    "@txt_successfully_add": {
+      "description": "با موفقیت اضافه شد"
+    },
+    "txt_your_new_expert":"متخصص جدید شما",
+    "@txt_your_new_expert": {
+      "description": "متخصص جدید شما"
+    },
+    "txt_your_new_coupon":"کوپن جدید شما",
+    "@txt_your_new_coupon": {
+      "description": "کوپن جدید شما"
+    },
+    "txt_successfully_changed_your_password":"تبریک! رمز عبور خود را با موفقیت تغییر دادید",
+    "@txt_successfully_changed_your_password": {
+      "description": "با موفقیت تغییر کرد"
+    },
+  
+    "txt_your_new_product":"محصول جدید شما",
+    "@txt_your_new_product": {
+      "description": "محصول جدید شما"
+    },
+    "txt_your_new_service":"خدمات جدید شما",
+    "@txt_your_new_service": {
+      "description": "خدمات جدید شما"
+    },
+    "txt_successfully_save":"با موفقیت ذخیره شد",
+    "@txt_successfully_save": {
+      "description": "با موفقیت ذخیره شد"
+    },
+    "txt_your_setting":"تنظیم شما",
+    "@txt_your_setting": {
+      "description": "تنظیم شما"
+    },
+    "txt_successfully_add_your_new_coupon":"کوپن جدید خود را با موفقیت اضافه کنید",
+    "@txt_successfully_add_your_new_coupon": {
+      "description": "کوپن جدید خود را با موفقیت اضافه کنید"
+    },
+    "txt_successfully_add_your_new_expert":"متخصص جدید خود را با موفقیت اضافه کردید",
+    "@txt_successfully_add_your_new_expert": {
+      "description": "متخصص جدید خود را با موفقیت اضافه کردید"
+    },
+    "txt_successfully_add_your_new_service":"خدمات جدید خود را با موفقیت اضافه کردید",
+    "@txt_successfully_add_your_new_service": {
+      "description": "خدمات جدید خود را با موفقیت اضافه کردید"
+    },
+    "txt_successfully_save_your_setting":"با موفقیت تنظیمات خود را ذخیره کردید",
+    "@txt_successfully_save_your_setting": {
+      "description": "با موفقیت تنظیمات خود را ذخیره کردید"
+    },
+    "txt_succesfully_add_your_new_product":"با موفقیت محصول خود را ذخیره کردید",
+    "@txt_succesfully_add_your_new_product": {
+      "description": "با موفقیت محصول خود را ذخیره کردید"
+    },
+    "txt_successfully_changed_your_profile":"مشخصات خود را با موفقیت تغییر دادید",
+    "@txt_successfully_changed_your_profile": {
+      "description": "مشخصات خود را با موفقیت تغییر دادید"
+    },
+    "lbl_selet_language":"زبان خود را انتخاب کنید",
+    "@lbl_selet_language": {
+      "description":"زبان را انتخاب کنید"
+    },
+    "lbl_add_expert":"اضافه کردن متخصص",
+    "@lbl_add_expert": {
+      "description": "اضافه کردن متخصص"
+    },
+    "lbl_sign_out":"خروج از برنامه",
+    "@lbl_sign_out": {
+      "description": "خروج از برنامه"
+    },
+    "txt_confirmation_message_for_sign_out":"آیا مطمئن هستید که می خواهید خارج شوید؟",
+    "@txt_confirmation_message_for_sign_out": {
+      "description": "آیا مطمئن هستید که می خواهید خارج شوید؟"
+    },
+    "lbl_gofresha":"ویزیت لند",
+    "@lbl_gofresha":{
+      "description": "ویزیت لند"
+    },
+    "txt_total_admin_share_sent_by_vendor":"تمام اشتراک های ادمین که توسط آرایشگر ارسال شده اند",
+    "@txt_total_admin_share_sent_by_vendor": {
+      "description": "تمام اشتراک های ادمین که توسط آرایشگر ارسال شده اند"
+    },
+    "txt_total_admin_share_pending_at_vendor":"تمام اشتراک های ادمین که توسط آرایشگر در وضعیت انتظار هستند",
+    "@txt_total_admin_share_pending_at_vendor": {
+      "description": "تمام اشتراک های ادمین که توسط آرایشگر در وضعیت انتظار هستند"
+    },
+    "txt_total_vendor_share_given_by_admin":"تمام اشتراک های آرایشگر که از طرف ادمین دریافت شده اند",
+    "@txt_total_vendor_share_given_by_admin": {
+      "description": "تمام اشتراک های آرایشگر که از طرف ادمین دریافت شده اند"
+    },
+    "txt_total_vendor_share_pending_at_admin":"تمام اشتراک های آرایشگر که توسط ادمین در وضعیت انتظار هستند",
+    "@txt_total_vendor_share_pending_at_admin": {
+      "description": "تمام اشتراک های آرایشگر که توسط ادمین در وضعیت انتظار هستند"
+    },
+    "lbl_reviews":"نظرات",
+    "@lbl_reviews": {
+      "description": "نظرات"
+    },
+    "lbl_view_all":"مشاهده همه",
+    "@lbl_view_all": {
+      "description": "مشاهده همه"
+    },
+    "lbl_home_navigation":"خانه",
+    "@lbl_home_navigation": {
+      "description": "خانه"
+    },
+    "lbl_request_navigation":"درخواست",
+    "@lbl_request_navigation": {
+      "description": "درخواست"
+    },
+    "lbl_appointment_navigation":"تاریخچه قرارملاقات",
+    "@lbl_appointment_navigation": {
+      "description": "تاریخچه قرارملاقات"
+    },
+    "lbl_profile_navigation":"پروفایل",
+    "@lbl_profile_navigation": {
+      "description": "پروفایل"
+    },
+    "lbl_upload_certificate":"آپلود مدرک",
+    "@lbl_upload_certificate": {
+      "description": "آپلود مدرک"
+    },
+	"lbl_pending_order":"سفارش در حال بررسی",
+    "@lbl_pending_order": {
+      "description": "سفارش درحال بررسی"
+    },
+    "lbl_complete_order":"سفارش تکمیل شد",
+    "@lbl_complete_order" : {
+      "description": "سفارش تکمیل شد" 
+    },
+    "lbl_cancel_order":"لغو سفارش",
+    "@lbl_cancel_order" : {
+      "description": "لغو سفارش" 
+    },
+	"lbl_orderConfirmationDialog": "آیا می خواهید وضعیت سفارش را تغییر دهید؟ ",
+	"@lbl_orderConfirmationDialog" : {
+	  "description": "آیا می خواهید وضعیت سفارش را تغییر دهید؟ "
+	}
+
+}

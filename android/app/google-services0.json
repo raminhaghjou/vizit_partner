@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328396744316",
+    "firebase_url": "https://vizitland-e8171.firebaseio.com",
+    "project_id": "vizitland-e8171",
+    "storage_bucket": "vizitland-e8171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328396744316:android:2be58461be888baa",
+        "android_client_info": {
+          "package_name": "com.vizitland.vizit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328396744316-3tt0uljkfpctmp8jvlka487nv0l3cbi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6VgRYpjsibrBXgR2bdk2b9gt2-hzkB2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328396744316-3tt0uljkfpctmp8jvlka487nv0l3cbi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
